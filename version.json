@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.0.1/EasyStock.msi",
+  "version": "1.0.2",
+  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.0.2/EasyStock.msi",
   "changelog": "- إضافة طباعة وصل التسليم (Bon de livraison)\n- تحسين أداء الفواتير وإدارة المستخدمين\n- إصلاحات عامة في النظام"
 }
