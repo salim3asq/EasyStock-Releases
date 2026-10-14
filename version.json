@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.2.0/EasyStock.msi",
-  "changelog": "إضافة ميزة النسخ الاحتياطي لقاعدة البيانات عند تسجيل الخروج"
+  "version": "1.2.1",
+  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.2.1/EasyStock.msi",
+  "changelog": "إضافة ميزة الميزان الالكتروني والتعديل على شاشة الخزنة"
 }
