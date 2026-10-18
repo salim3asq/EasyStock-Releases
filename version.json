@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.2.2/EasyStock.msi",
-  "changelog": "إضافة الفاتورة المبدئية في شاشة الشراء وإمكانية التعديل عليها واضافة بعض التعديلات على شاشة البيع"
+  "version": "1.2.3",
+  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.2.3/EasyStock.msi",
+  "changelog": "إضافة امكانية حذف او تعديل تسويات العملاء والموردين"
 }
