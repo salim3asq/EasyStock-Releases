@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.2.3/EasyStock.msi",
-  "changelog": "إضافة امكانية حذف او تعديل تسويات العملاء والموردين"
+  "version": "1.2.4",
+  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.2.4/EasyStock.msi",
+  "changelog": "إضافة ميزة ادخال فاتورة الشراء بالذكاء الاصطناعي"
 }
