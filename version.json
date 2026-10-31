@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
-  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.2.7/EasyStock.msi",
-  "changelog": "تحديث البرنامج إلى آخر إصدار"
+  "version": "1.2.8",
+  "download_url": "https://github.com/salim3asq/EasyStock-Releases/releases/download/v1.2.8/EasyStock.msi",
+  "changelog": "إصلاح مشكلة أسعار المنتجات في الفواتير"
 }
